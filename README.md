@@ -305,61 +305,18 @@ Main Dashboard
 
 ## 📸 Screenshots
 
+
 ### Main Dashboard
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🛡️ Ransomware Education Tool - Dashboard                   │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Welcome, [User Name]! 👋                                   │
-│                                                             │
-│  📊 Your Progress:                                          │
-│  ▓▓▓▓▓▓▓░░░ 70% Complete                                    │
-│                                                             │
-│  📚 Available Modules:                                      │
-│  ✅ Module 1: Understanding Ransomware                      │
-│  ✅ Module 2: Attack Vectors                               │
-│  🔄 Module 3: Prevention Strategies (In Progress)          │
-│  ⏳ Module 4: Threat Recognition                           │
-│  ⏳ Module 5: Incident Response                            │
-│  ⏳ Module 6: Recovery Planning                            │
-│                                                             │
-│  🏆 Recent Achievement: Email Security Expert              │
-│                                                             │
-│  [Continue Learning] [View Certificate] [Resources]        │
-└─────────────────────────────────────────────────────────────┘
-```
+
+[image](https://github.com/user-attachments/assets/dcb56de0-b08f-4ce1-861a-3151c535b622)
 
 ### Learning Module Interface
-```
-┌─────────────────────────────────────────────────────────────┐
-│  📚 Module 3: Prevention Strategies                         │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  🎯 Learning Objective:                                     │
-│  Implement comprehensive protection measures against        │
-│  ransomware attacks through layered security strategies.   │
-│                                                             │
-│  📖 Content Section: 3.1 - The 3-2-1 Backup Rule          │
-│                                                             │
-│  The 3-2-1 backup rule is a fundamental strategy:          │
-│                                                             │
-│  3️⃣ Keep THREE copies of important data                    │
-│  2️⃣ Store backups on TWO different media types            │
-│  1️⃣ Keep ONE copy stored OFFSITE/offline                  │
-│                                                             │
-│  📊 [Interactive Diagram: Backup Strategy Visualization]   │
-│                                                             │
-│  ✅ Why this works:                                         │
-│  • Protects against hardware failure                       │
-│  • Safeguards against ransomware encryption               │
-│  • Ensures disaster recovery capability                    │
-│                                                             │
-│  [◀ Previous] [▶ Next] [📝 Take Notes] [❓ Quiz]          │
-└─────────────────────────────────────────────────────────────┘
-```
+
+![image](https://github.com/user-attachments/assets/e37b2f28-af64-478a-bd91-ac50e285a450)
 
 ## 🎯 Educational Objectives
+![image](https://github.com/user-attachments/assets/d0fd6727-4af5-4e0c-9580-58613bbe4490)
+
 
 ### Primary Learning Outcomes
 By completing this educational tool, users will be able to:
