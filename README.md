@@ -55,7 +55,8 @@ The Ransomware Education Tool provides comprehensive cybersecurity education foc
 
 ### Main Dashboard
 
-[image](https://github.com/user-attachments/assets/dcb56de0-b08f-4ce1-861a-3151c535b622)
+![image](https://github.com/user-attachments/assets/3d207d75-ecf6-4b04-92bb-1e7cb8b8cbe3)
+
 
 ### Learning Module Interface
 
@@ -119,7 +120,7 @@ This tool follows proven educational principles:
 ### Quick Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/ransomware-education-tool.git
+git clone https://github.com/Naveen-21-Cyber/ransomware-education-tool.git
 
 # Navigate to project directory
 cd ransomware-education-tool
