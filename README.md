@@ -50,6 +50,22 @@ The Ransomware Education Tool provides comprehensive cybersecurity education foc
 - Unclear incident response procedures
 - Need for safe, comprehensive training
 
+  ## 📸 Screenshots
+
+
+### Main Dashboard
+
+[image](https://github.com/user-attachments/assets/dcb56de0-b08f-4ce1-861a-3151c535b622)
+
+### Learning Module Interface
+
+![image](https://github.com/user-attachments/assets/e37b2f28-af64-478a-bd91-ac50e285a450)
+
+## 🎯 Educational Objectives
+![image](https://github.com/user-attachments/assets/d0fd6727-4af5-4e0c-9580-58613bbe4490)
+
+
+
 ## ✨ Key Features
 
 ### 📚 Comprehensive Educational Content
@@ -121,19 +137,7 @@ source ransomware-edu-env/bin/activate
 pip install -r requirements.txt
 
 # Run the application
-python main.py
-```
-
-### Alternative Installation Methods
-```bash
-# Using pip (if published)
-pip install ransomware-education-tool
-
-# Docker deployment
-docker run -p 5000:5000 ransomware-education-tool
-
-# Web-based deployment
-python app.py --web-mode
+python Ransomware.py
 ```
 
 ## 📱 Usage Guide
@@ -302,20 +306,6 @@ Main Dashboard
 - 🔒 **No External Transmission**: No sensitive data sent over networks
 - 🔒 **Privacy Focused**: Minimal data collection
 - 🔒 **Secure Design**: Following security best practices
-
-## 📸 Screenshots
-
-
-### Main Dashboard
-
-[image](https://github.com/user-attachments/assets/dcb56de0-b08f-4ce1-861a-3151c535b622)
-
-### Learning Module Interface
-
-![image](https://github.com/user-attachments/assets/e37b2f28-af64-478a-bd91-ac50e285a450)
-
-## 🎯 Educational Objectives
-![image](https://github.com/user-attachments/assets/d0fd6727-4af5-4e0c-9580-58613bbe4490)
 
 
 ### Primary Learning Outcomes
